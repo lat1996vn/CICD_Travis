@@ -1,0 +1,14 @@
+//
+//  Release.xcconfig
+//  CICD_Example
+//
+//  Created by Lê Anh Tuấn on 20/04/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = CICD
+APP_VERSION = 0.1
+APP_BUNDLE_ID = tuanla.test.release
+APP_ICON = AppIcon_Release

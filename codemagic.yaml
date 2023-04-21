@@ -1,7 +1,7 @@
 workflows:
   cicd-workflow:
     name: CIDI Example
-    script:
+    scripts:
       - name: CICD Started
         script: echo "Welcome to CICD setup"
     publishing:

@@ -1,0 +1,10 @@
+workflows:
+  cicd-workflow:
+    name: CIDI Example
+    script:
+      - name: CICD Started
+        script: echo "Welcome to CICD setup"
+    publishing:
+      email:
+        recipients:
+          - tuan.la26111996@gmail.com
